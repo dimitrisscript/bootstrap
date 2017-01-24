@@ -1,2 +1,1 @@
-# vertical-align-bootstrap
-Vertical align class for bootstrap 3
+Various helpful bootstrap snippets.
